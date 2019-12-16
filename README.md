@@ -13,4 +13,4 @@
  
  ![Test Image](https://github.com/mserobabina/leaflet-challenge/blob/master/Leaflet-Step-1/earthquakes.PNG)
  
-  
+   
