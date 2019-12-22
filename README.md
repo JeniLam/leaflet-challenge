@@ -12,7 +12,7 @@
 - Creating a legend that provides context for a map data   
        
  ![Test Image](https://github.com/mserobabina/leaflet-challenge/blob/master/Leaflet-Step-1/earthquakes.PNG)
-  
+   
    
     
   
